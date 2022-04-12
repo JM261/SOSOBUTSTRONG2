@@ -12,5 +12,6 @@
 
 
 - 작업물 파일경로
+
 WeMakeSalad/sosoButStrong/src/main/java/com/sbs/wemasal/seller/*(하위)  Controller,vo
 WeMakeSalad/sosoButStrong/src/main/java/com/sbs/wemasal/customer/*(하위, 일부제외) Controller,vo
