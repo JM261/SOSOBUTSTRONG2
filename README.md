@@ -10,5 +10,7 @@
     - 등록한 상품리스트 조회 (판매자)
 - 사용기술 및 개발환경 - HTML , CSS , Javascript , jQuery , Bootstrap , ERDCloud , ORACLE , Apache Tomcat , Java , Mybatis , AJAX , JSTL , Visual Studio Code , STS , Spring Framework , naver Smart editor2 , Github
 
--작업물 위치경로
+
+- 작업물 파일경로
 WeMakeSalad/sosoButStrong/src/main/java/com/sbs/wemasal/seller/*(하위)  Controller,vo
+WeMakeSalad/sosoButStrong/src/main/java/com/sbs/wemasal/customer/*(하위, 일부제외) Controller,vo
